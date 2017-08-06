@@ -2,8 +2,10 @@
 
 ## General Algorithm Questions
 
-The application include some of algorihm questions and answers.
 
+The project includes some algorithms questions tested under the best and worst case.
+
+## Ref:
 https://www.hackerrank.com   <br/>
 https://leetcode.com    <br/>
 http://www.geeksforgeeks.org  <br/>
