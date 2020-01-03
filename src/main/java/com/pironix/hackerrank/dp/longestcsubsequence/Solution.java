@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Created by ikarayel on 2/19/2017.
+ * Longest Common Subsequence
  */
 public class Solution {
 

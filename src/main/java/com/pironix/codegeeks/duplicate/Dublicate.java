@@ -1,4 +1,4 @@
-package com.pironix.codegeeks.powerset.duplicate;
+package com.pironix.codegeeks.duplicate;
 
 /**
  * Created by ikarayel on 3/14/2017.

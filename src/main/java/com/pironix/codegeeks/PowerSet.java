@@ -1,4 +1,4 @@
-package com.pironix.codegeeks.powerset;
+package com.pironix.codegeeks;
 
 /**
  * Created by ikarayel on 3/5/2017.
